@@ -1,2 +1,2 @@
 # ProMan
-It's my Gitup
+It's my Githup
